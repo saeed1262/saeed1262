@@ -1,5 +1,8 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Saeed+Ghorbani)](https://git.io/typing-svg)
 
+Currently I am an R&D Scientist at  Ubisoft La Forge.
+
+You can visit my homepage on [https://saeed1262.github.io/](https://saeed1262.github.io/)
 <!--
 **saeed1262/saeed1262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
