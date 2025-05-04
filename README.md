@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Saeed+Ghorbani)](https://git.io/typing-svg)
 
-Currently I am an R&D Scientist at  Ubisoft La Forge.
+Currently I am a Research Scientist at Amazon.
 
 You can visit my homepage on [https://saeed1262.github.io/](https://saeed1262.github.io/)
 <!--
